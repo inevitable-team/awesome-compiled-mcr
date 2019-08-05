@@ -1,29 +1,38 @@
-# generator-awesome-list
+# Compiled MCR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Yeoman generator for GitHub [awesome lists](https://github.com/sindresorhus/awesome) :sunglasses:
+> resources for the Tech community in Manchester.
 
-[![build]( 	https://img.shields.io/travis/dar5hak/generator-awesome-list.svg?style=flat-square)](https://travis-ci.org/dar5hak/generator-awesome-list)
-[![npm version](https://img.shields.io/npm/v/generator-awesome-list.svg?style=flat-square)](https://www.npmjs.com/package/generator-awesome-list)
-[![license](https://img.shields.io/npm/l/generator-awesome-list.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0)
 
-## Usage
+## Contents
 
-```sh
-npm install -g yo generator-awesome-list
-yo awesome-list
-```
+- [Section](#section)
+- [Another Section](#another-section)
 
-## What's included?
 
-This stuff is heavily stolen from [Sindre Sorhus](https://github.com/sindresorhus)'s lists.
+## Section
 
-- `readme.md` with a [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license
-- `code-of-conduct.md` based on [Contributor Covenant](http://contributor-covenant.org)
-- `contributing.md` skeleton
-- a simple `.gitattributes` to make contributing easier
+About this section. Optional. Keep this short and focus on the list.
 
-![Screenshot of generator running](screenshot.png)
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Another Section
+
+### Subsection
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
 
 ## License
 
-Apache-2.0 © [Darshak Parikh](https://github.com/dar5hak)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Sean O&#39;Mahoney has waived all copyright and
+related or neighboring rights to this work.
